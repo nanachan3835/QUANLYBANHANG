@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDMHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMHangHoa.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMHangHoa.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMHangHoa.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmDMHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:00:43.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDMKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMKhachHang.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMKhachHang.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMKhachHang.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmDMKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:40:47.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDMNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMNhanVien.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmDMNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:27:46.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDMChatLieu.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMChatLieu.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:06:57.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmMain.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmMain.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:44:58.064Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
