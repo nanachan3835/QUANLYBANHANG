@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,24 +45,22 @@
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs [Design]",
               "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T10:01:41.707Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-27T10:01:41.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmTimKiemHD.cs [Design]",
               "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmTimKiemHD.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmTimKiemHD.cs",
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmTimKiemHD.cs [Design]",
               "RelativeToolTip": "QLBanHang\\frmTimKiemHD.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T10:00:39.645Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-27T10:00:39.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmHoaDonBan.cs [Design]",
               "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmHoaDonBan.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmHoaDonBan.cs",
