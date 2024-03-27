@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace QLBanHang
 {
-    public partial class frmDMKhachHang : Form
+    public partial class frmHoaDonBan : Form
     {
-        public frmDMKhachHang()
+        public frmHoaDonBan()
         {
             InitializeComponent();
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
