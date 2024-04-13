@@ -1,0 +1,26 @@
+số thực thể : 4
+
+
+địa phương: tên thành phố
+            tên tỉnh
+            tên quốc gia
+            -di tích (khóa) - liên kết one many 
+
+(khóa)tour - tên 
+           - ngày đi 
+           - ngày về
+           - number of vé 
+
+(khóa)di tích : - tên di tích 
+                - tên nhân viên quản lý
+                - tour(khóa) một nhiều
+
+khách hàng: - tên khách hàng
+            - địa chỉ
+            - sđt
+            - tour (khóa)
+
+
+vé - giá 
+   - số lượng 
+   - khách hàng - một một  
