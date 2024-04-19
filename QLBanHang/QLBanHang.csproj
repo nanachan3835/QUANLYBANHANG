@@ -62,6 +62,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\Function.cs" />
     <Compile Include="frmDMChatLieu.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -9,3 +9,8 @@ D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMHangHoa.resources
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMKhachHang.resources
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMNhanVien.resources
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHoaDonBan.resources
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTimKiemHD.resources
