@@ -25,13 +25,38 @@ namespace QLBanHang
 
         private void mnuDanhmuc_Click(object sender, EventArgs e)
         {
-
         }
 
-        private void mnuThoat_Click(object sender, EventArgs e)
+        private void mnuChatLieu_Click(object sender, EventArgs e)
         {
-            Function.Disconnect();    
-            Application.Exit();
+            frmDMChatLieu frmChatLieu = new frmDMChatLieu(); //Khởi tạo đối tượng
+            frmChatLieu.ShowDialog(); //Hiển thị
+        }
+
+        private void mnuChatLieu_Click_1(object sender, EventArgs e)
+        {
+            frmDMChatLieu frmChatLieu = new frmDMChatLieu(); //Khởi tạo đối tượng
+            frmChatLieu.ShowDialog(); //Hiển thị
+        }
+
+        private void mnuHangHoa_Click(object sender, EventArgs e)
+        {
+            frmDMHangHoa frm = new frmDMHangHoa();
+            frm.ShowDialog();
+        }
+
+        private void mnuNhanVien_Click(object sender, EventArgs e)
+        {
+            frmDMNhanVien frm = new frmDMNhanVien();
+            frm.ShowDialog();
+        }
+
+        private void mnuKhachHang_Click(object sender, EventArgs e)
+        {
+            frmDMKhachHang frm = new frmDMKhachHang();
+            frm.ShowDialog();
         }
     }
 }
+       
+    

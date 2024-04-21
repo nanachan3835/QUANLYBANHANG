@@ -181,6 +181,7 @@
             this.dgvChatLieu.RowTemplate.Height = 24;
             this.dgvChatLieu.Size = new System.Drawing.Size(918, 259);
             this.dgvChatLieu.TabIndex = 1;
+            this.dgvChatLieu.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvChatLieu_CellContentClick);
             // 
             // frmDMChatLieu
             // 
@@ -191,7 +192,9 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "frmDMChatLieu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Danh Muc Chat Lieu";
+            this.Load += new System.EventHandler(this.frmDMChatLieu_Load);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

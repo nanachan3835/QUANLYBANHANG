@@ -40,6 +40,16 @@ namespace QLBanHang.Class
                 Con = null;
             }
         }
+
+        //phuong thuc thuc thi cau lenh select lay du lieu
+        public static DataTable GetDataToTable(String sql)
+        {
+           DataTable table  = new DataTable();
+           SqlDataAdapter dap = new SqlDataAdapter(sql,Con);
+           dap.Fill(table);
+           return table;
+        }
+
     }
 
 }
