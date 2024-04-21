@@ -3,7 +3,6 @@ D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\bin\Debug\QLBanHang
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMChatLieu.resources
-D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
@@ -14,3 +13,4 @@ D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMNhanVien.resources
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHoaDonBan.resources
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTimKiemHD.resources
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmMain.resources
