@@ -34,8 +34,8 @@ namespace QLBanHang
         private void LoadDataGridView()
         {
             string sql;
-            sql = "SELECT MaChatLieu, TenChatLieu FROM tblChatLieu";
-            tblCL = Class.Function.GetDataToTable(sql); //Đọc dữ liệu từ bảng
+            sql = "SELECT MaChatLieu, TenChatLieu FROM tlbChatLieu";
+            tblCL = Function.GetDataToTable(sql); //Đọc dữ liệu từ bảng
             dgvChatLieu.DataSource = tblCL; //Nguồn dữ liệu            
             dgvChatLieu.Columns[0].HeaderText = "Mã chất liệu";
             dgvChatLieu.Columns[1].HeaderText = "Mã chất liệu";
