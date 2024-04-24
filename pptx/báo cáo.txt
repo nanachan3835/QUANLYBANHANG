@@ -1,0 +1,56 @@
+quản lý bán hàng 
+
+user stories: 
+-là một người quản lý tôi muốn chương trình:
+ có thông tin về nguyên liêu , thông tin khách , thông tin về sản phẩm bán , 
+ thông tin về chi tiết hóa đơn bán , thông tin về nhân viên
+ lưu trữ trong data base
+-là một nhân viên , tôi muốn có thông tin về khách hàng , thông tin sản phẩm bán 
+-là một khách hàng , tôi muốn có thông tin hóa đơn bán 
+-là khách hàng tôi muốn thay đổi , hủy đơn hàng
+-là nhân viên thì phải thông báo cho khách về tình trạng mua bán của đơn hàng
+-nếu hết nguyên liệu thì sẽ phải thông báo cho khách hàng rằng nguyên liệu đã hết và gia hạn thời gian lấy hàng
+-là khách hàng nếu muốn mua hàng thì phải đặt hàng cho nhân viên
+-là nhân viên trước khi tạo hóa đơn thì phải tổng hợp thông tin về hàng , xác nhật hóa đơn với khách hàng để biết nếu khách hủy hay điều chỉnh đơn hàng
+-lúc tạo hóa đơn thì sẽ lưu lại chi tiết hóa đơn , hóa đơn thu gọn đưa cho khách
+-một hóa đơn bán chỉ được lấy từ 1 hóa đơn bán chi tiết
+-một khách hàng trong một lần đặt hàng sẽ được tính là 1 hóa đơn
+-một khách hàng sẽ có nhiều lần đặt hàng -> có nhiều hóa đơn 
+-một hóa đơn bán chỉ do môt nhân viên phụ trách
+-một hóa đơn có thể bao gồm nhiều mặt hàng
+-một mặt hàng có thể có nhiều nguyên liệu 
+
+
++trong thông tin chất liệu : -mã chất liệu 
+                             - tên chất liệu
++trong thông tin về sản phẩm bán : -mã hàng 
+                                   -tên hàng 
+                                   -mã chất liệu   
+                                   -số lượng
+                                   -đơn giá
+                                   -đơn giá nhập hàng
+                                   -đơn giá bán hàng
+                                   -ảnh 
+                                   -ghi chú
++trong thông tin về nhân viên : - mã nhân viên
+                                - tên nhân viên
+                                -giới tính
+                                -địa chỉ
+                                -điệ thoại
+                                -ngày sinh
++trong thông tin về khách -mã khách
+                          -tên khách
+                          -địa chỉ
+                          -điện thoại
++trong thôn tin về hóa đơn bán -mã hóa đơn
+                               - mã nhân viên
+                               -ngày bán
+                               -mã khách 
+                               -tổng tiền
++trong thông tin về chi tiết hóa đơn - mã hóa đơn
+                                     - mã hàng 
+                                     - số lượng
+                                     - đơn giá 
+                                     - giảm giá 
+                                     - thành tiền 
+                                               
