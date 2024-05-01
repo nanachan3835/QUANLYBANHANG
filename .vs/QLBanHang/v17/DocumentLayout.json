@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -53,8 +53,7 @@
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmMain.cs [Design]",
               "RelativeToolTip": "QLBanHang\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:03:39.023Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-21T15:03:39.023Z"
             },
             {
               "$type": "Document",
@@ -66,8 +65,7 @@
               "RelativeToolTip": "QLBanHang\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:03:26.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T15:03:26.923Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:02:43.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T15:02:43.672Z"
             },
             {
               "$type": "Document",
@@ -90,7 +87,7 @@
               "RelativeDocumentMoniker": "QLBanHang\\Class\\Function.cs",
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\Class\\Function.cs",
               "RelativeToolTip": "QLBanHang\\Class\\Function.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDAAAAALAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T14:40:28.31Z",
               "EditorCaption": ""
@@ -104,8 +101,7 @@
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs [Design]",
               "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:30:28.005Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-21T14:30:28.005Z"
             }
           ]
         }
