@@ -49,6 +49,35 @@ namespace QLBanHang.Class
            dap.Fill(table);
            return table;
         }
+        //phương thức thực thi sự kiện insert update delete
+        public static void RunSQL(string sql)
+        {
+            SqlCommand cmd; //Đối tượng thuộc lớp SqlCommand
+            cmd = new SqlCommand();
+            cmd.Connection = Con; //Gán kết nối
+            cmd.CommandText = sql; //Gán lệnh SQL
+            try
+            {
+                cmd.ExecuteNonQuery(); //Thực hiện câu lệnh SQL
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            cmd.Dispose();//Giải phóng bộ nhớ
+            cmd = null;
+        }
+
+        //Hàm kiểm tra khoá trùng
+        public static bool CheckKey(string sql)
+        {
+            SqlDataAdapter dap = new SqlDataAdapter(sql, Con);
+            DataTable table = new DataTable();
+            dap.Fill(table);
+            if (table.Rows.Count > 0)
+                return true;
+            else return false;
+        }
 
     }
 

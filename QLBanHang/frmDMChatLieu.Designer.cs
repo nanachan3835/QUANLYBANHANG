@@ -69,6 +69,7 @@
             this.btnDong.TabIndex = 5;
             this.btnDong.Text = "&Đóng";
             this.btnDong.UseVisualStyleBackColor = true;
+            this.btnDong.Click += new System.EventHandler(this.btnDong_Click);
             // 
             // btnBoQua
             // 
@@ -78,6 +79,7 @@
             this.btnBoQua.TabIndex = 4;
             this.btnBoQua.Text = "&Bỏ Qua";
             this.btnBoQua.UseVisualStyleBackColor = true;
+            this.btnBoQua.Click += new System.EventHandler(this.btnBoQua_Click);
             // 
             // btnLuu
             // 
@@ -87,6 +89,7 @@
             this.btnLuu.TabIndex = 3;
             this.btnLuu.Text = "&Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnSua
             // 
@@ -96,6 +99,7 @@
             this.btnSua.TabIndex = 2;
             this.btnSua.Text = "&Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnXoa
             // 
@@ -105,6 +109,7 @@
             this.btnXoa.TabIndex = 1;
             this.btnXoa.Text = "&Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnThem
             // 
@@ -114,6 +119,7 @@
             this.btnThem.TabIndex = 0;
             this.btnThem.Text = "&Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // panel2
             // 
@@ -141,6 +147,7 @@
             this.txtMaChatLieu.Name = "txtMaChatLieu";
             this.txtMaChatLieu.Size = new System.Drawing.Size(332, 22);
             this.txtMaChatLieu.TabIndex = 0;
+            this.txtMaChatLieu.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtMaChatLieu_KeyUp);
             // 
             // label3
             // 
@@ -182,6 +189,7 @@
             this.dgvChatLieu.Size = new System.Drawing.Size(918, 259);
             this.dgvChatLieu.TabIndex = 1;
             this.dgvChatLieu.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvChatLieu_CellContentClick);
+            this.dgvChatLieu.Click += new System.EventHandler(this.dgvChatLieu_Click);
             // 
             // frmDMChatLieu
             // 
