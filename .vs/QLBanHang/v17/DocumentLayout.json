@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\class\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|d:\\code_learn_code_block\\c#\\freecodecamp\\qlbanhang\\qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F654D3-2C9F-4782-90CB-D4AEC0922103}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,38 +38,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmDMChatLieu.cs [Design]",
-              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\frmDMChatLieu.cs",
-              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs [Design]",
-              "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmDMNhanVien.cs",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMNhanVien.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs",
+              "RelativeToolTip": "QLBanHang\\frmDMNhanVien.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:33:53.766Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmDMChatLieu.cs",
-              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\frmDMChatLieu.cs",
-              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMChatLieu.cs",
-              "RelativeToolTip": "QLBanHang\\frmDMChatLieu.cs",
-              "ViewState": "AQIAALQAAAAAAAAAAAAAwMMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:02:43.672Z",
+              "WhenOpened": "2024-05-10T01:41:03.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "frmDMNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmDMNhanVien.cs",
+              "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\frmDMNhanVien.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\frmDMNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:41:00.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Function.cs",
               "DocumentMoniker": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\Class\\Function.cs",
               "RelativeDocumentMoniker": "QLBanHang\\Class\\Function.cs",
               "ToolTip": "D:\\CODE_LEARN_CODE_BLOCK\\C#\\FREECODECAMP\\QLBanHang\\QLBanHang\\Class\\Function.cs",
               "RelativeToolTip": "QLBanHang\\Class\\Function.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAgwE8AAAAJAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T14:40:28.31Z",
               "EditorCaption": ""
