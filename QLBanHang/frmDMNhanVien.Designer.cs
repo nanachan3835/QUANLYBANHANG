@@ -37,7 +37,7 @@
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.mskNgaySinh = new System.Windows.Forms.DateTimePicker();
             this.mtbDienThoai = new System.Windows.Forms.MaskedTextBox();
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.chkGioiTinh = new System.Windows.Forms.CheckBox();
@@ -79,6 +79,7 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1088, 100);
             this.panel3.TabIndex = 3;
+            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
             // btnDong
             // 
@@ -97,6 +98,7 @@
             this.btnBoQua.TabIndex = 4;
             this.btnBoQua.Text = "&Bỏ Qua";
             this.btnBoQua.UseVisualStyleBackColor = true;
+            this.btnBoQua.Click += new System.EventHandler(this.btnBoQua_Click);
             // 
             // btnLuu
             // 
@@ -106,6 +108,7 @@
             this.btnLuu.TabIndex = 3;
             this.btnLuu.Text = "&Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnSua
             // 
@@ -115,6 +118,7 @@
             this.btnSua.TabIndex = 2;
             this.btnSua.Text = "&Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnXoa
             // 
@@ -124,6 +128,7 @@
             this.btnXoa.TabIndex = 1;
             this.btnXoa.Text = "&Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnThem
             // 
@@ -133,10 +138,11 @@
             this.btnThem.TabIndex = 0;
             this.btnThem.Text = "&Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.dateTimePicker1);
+            this.panel2.Controls.Add(this.mskNgaySinh);
             this.panel2.Controls.Add(this.mtbDienThoai);
             this.panel2.Controls.Add(this.txtDiaChi);
             this.panel2.Controls.Add(this.chkGioiTinh);
@@ -155,13 +161,13 @@
             this.panel2.Size = new System.Drawing.Size(1088, 236);
             this.panel2.TabIndex = 1;
             // 
-            // dateTimePicker1
+            // mskNgaySinh
             // 
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimePicker1.Location = new System.Drawing.Point(720, 182);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(181, 22);
-            this.dateTimePicker1.TabIndex = 12;
+            this.mskNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.mskNgaySinh.Location = new System.Drawing.Point(720, 182);
+            this.mskNgaySinh.Name = "mskNgaySinh";
+            this.mskNgaySinh.Size = new System.Drawing.Size(181, 22);
+            this.mskNgaySinh.TabIndex = 12;
             // 
             // mtbDienThoai
             // 
@@ -279,6 +285,7 @@
             this.dgvNhanVien.RowTemplate.Height = 24;
             this.dgvNhanVien.Size = new System.Drawing.Size(1088, 262);
             this.dgvNhanVien.TabIndex = 2;
+            this.dgvNhanVien.Click += new System.EventHandler(this.dgvNhanVien_Click);
             // 
             // frmDMNhanVien
             // 
@@ -315,7 +322,7 @@
         private System.Windows.Forms.CheckBox chkGioiTinh;
         private System.Windows.Forms.TextBox txtTenNhanVien;
         private System.Windows.Forms.TextBox txtMaNhanVien;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker mskNgaySinh;
         private System.Windows.Forms.MaskedTextBox mtbDienThoai;
         private System.Windows.Forms.TextBox txtDiaChi;
         private System.Windows.Forms.Panel panel3;
