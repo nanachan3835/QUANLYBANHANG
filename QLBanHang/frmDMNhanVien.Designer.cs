@@ -61,9 +61,9 @@
             // 
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(0, 498);
+            this.panel1.Location = new System.Drawing.Point(0, 417);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1088, 100);
+            this.panel1.Size = new System.Drawing.Size(1006, 100);
             this.panel1.TabIndex = 0;
             // 
             // panel3
@@ -77,13 +77,13 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1088, 100);
+            this.panel3.Size = new System.Drawing.Size(1006, 100);
             this.panel3.TabIndex = 3;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
             // btnDong
             // 
-            this.btnDong.Location = new System.Drawing.Point(922, 30);
+            this.btnDong.Location = new System.Drawing.Point(881, 33);
             this.btnDong.Name = "btnDong";
             this.btnDong.Size = new System.Drawing.Size(75, 23);
             this.btnDong.TabIndex = 5;
@@ -92,7 +92,7 @@
             // 
             // btnBoQua
             // 
-            this.btnBoQua.Location = new System.Drawing.Point(754, 30);
+            this.btnBoQua.Location = new System.Drawing.Point(713, 33);
             this.btnBoQua.Name = "btnBoQua";
             this.btnBoQua.Size = new System.Drawing.Size(75, 23);
             this.btnBoQua.TabIndex = 4;
@@ -102,7 +102,7 @@
             // 
             // btnLuu
             // 
-            this.btnLuu.Location = new System.Drawing.Point(586, 30);
+            this.btnLuu.Location = new System.Drawing.Point(545, 33);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 23);
             this.btnLuu.TabIndex = 3;
@@ -112,7 +112,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(418, 30);
+            this.btnSua.Location = new System.Drawing.Point(377, 33);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 2;
@@ -122,7 +122,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(250, 30);
+            this.btnXoa.Location = new System.Drawing.Point(209, 33);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 1;
@@ -132,7 +132,7 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(82, 30);
+            this.btnThem.Location = new System.Drawing.Point(41, 33);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 0;
@@ -158,7 +158,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1088, 236);
+            this.panel2.Size = new System.Drawing.Size(1006, 236);
             this.panel2.TabIndex = 1;
             // 
             // mskNgaySinh
@@ -283,7 +283,7 @@
             this.dgvNhanVien.Name = "dgvNhanVien";
             this.dgvNhanVien.RowHeadersWidth = 51;
             this.dgvNhanVien.RowTemplate.Height = 24;
-            this.dgvNhanVien.Size = new System.Drawing.Size(1088, 262);
+            this.dgvNhanVien.Size = new System.Drawing.Size(1006, 181);
             this.dgvNhanVien.TabIndex = 2;
             this.dgvNhanVien.Click += new System.EventHandler(this.dgvNhanVien_Click);
             // 
@@ -291,7 +291,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1088, 598);
+            this.AutoScroll = true;
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(1006, 517);
             this.Controls.Add(this.dgvNhanVien);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
