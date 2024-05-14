@@ -31,7 +31,6 @@ namespace QLBanHang
             txtMaNhanVien.Enabled = false;
             btnLuu.Enabled = false;
             btnBoQua.Enabled = false;
-           
         }
 
         public void LoadDataGridView()
@@ -260,7 +259,9 @@ namespace QLBanHang
 
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
-            this.Close();
+          /////////////////////////// show all  dont put close() in here
+          ///
+           
         }
     }
 }

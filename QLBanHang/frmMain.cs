@@ -48,7 +48,7 @@ namespace QLBanHang
         private void mnuNhanVien_Click(object sender, EventArgs e)
         {
             frmDMNhanVien frm = new frmDMNhanVien();
-            frm.Show();
+            frm.ShowDialog();
         }
 
         private void mnuKhachHang_Click(object sender, EventArgs e)

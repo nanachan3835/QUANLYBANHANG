@@ -16,3 +16,4 @@ D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmMain.resources
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\bin\Debug\QuanLyBanHang.mdf
 D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\CODE_LEARN_CODE_BLOCK\C#\FREECODECAMP\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.ResolveComReference.cache

@@ -23,35 +23,35 @@ namespace QLBanHang
 
         private void frmHoaDonBan_Load(object sender, EventArgs e)
         {
-            btnThem.Enabled = true;
-            btnLuu.Enabled = false;
-            btnXoa.Enabled = false;
-            btnInHoaDon.Enabled = false;
-            txtMaHDBan.ReadOnly = true;
-            txtTenNhanVien.ReadOnly = true;
-            txtTenKhach.ReadOnly = true;
-            txtDiaChi.ReadOnly = true;
-            txtDienThoai.ReadOnly = true;
-            txtTenHang.ReadOnly = true;
-            txtDonGiaBan.ReadOnly = true;
-            txtThanhTien.ReadOnly = true;
-            txtTongTien.ReadOnly = true;
-            txtGiamGia.Text = "0";
-            txtTongTien.Text = "0";
-            Functions.FillCombo("SELECT MaKhach, TenKhach FROM tblKhach", cboMaKhach, "MaKhach", "MaKhach");
-            cboMaKhach.SelectedIndex = -1;
-            Functions.FillCombo("SELECT MaNhanVien, TenNhanVien FROM tblNhanVien", cboMaNhanVien, "MaNhanVien", "TenKhach");
-            cboMaNhanVien.SelectedIndex = -1;
-            Functions.FillCombo("SELECT MaHang, TenHang FROM tblHang", cboMaHang, "MaHang", "MaHang");
-            cboMaHang.SelectedIndex = -1;
-            //Hiển thị thông tin của một hóa đơn được gọi từ form tìm kiếm
-            if (txtMaHDBan.Text != "")
-            {
-                LoadInfoHoaDon();
-                btnXoa.Enabled = true;
-                btnInHoaDon.Enabled = true;
-            }
-            LoadDataGridView();
+            //btnThem.Enabled = true;
+            //btnLuu.Enabled = false;
+            //btnXoa.Enabled = false;
+            //btnInHoaDon.Enabled = false;
+            //txtMaHDBan.ReadOnly = true;
+            //txtTenNhanVien.ReadOnly = true;
+            //txtTenKhach.ReadOnly = true;
+            //txtDiaChi.ReadOnly = true;
+            //txtDienThoai.ReadOnly = true;
+            //txtTenHang.ReadOnly = true;
+            //txtDonGiaBan.ReadOnly = true;
+            //txtThanhTien.ReadOnly = true;
+            //txtTongTien.ReadOnly = true;
+            //txtGiamGia.Text = "0";
+            //txtTongTien.Text = "0";
+            //Functions.FillCombo("SELECT MaKhach, TenKhach FROM tblKhach", cboMaKhach, "MaKhach", "MaKhach");
+            //cboMaKhach.SelectedIndex = -1;
+            //Functions.FillCombo("SELECT MaNhanVien, TenNhanVien FROM tblNhanVien", cboMaNhanVien, "MaNhanVien", "TenKhach");
+            //cboMaNhanVien.SelectedIndex = -1;
+            //Functions.FillCombo("SELECT MaHang, TenHang FROM tblHang", cboMaHang, "MaHang", "MaHang");
+            //cboMaHang.SelectedIndex = -1;
+            ////Hiển thị thông tin của một hóa đơn được gọi từ form tìm kiếm
+            //if (txtMaHDBan.Text != "")
+            //{
+            //    LoadInfoHoaDon();
+            //    btnXoa.Enabled = true;
+            //    btnInHoaDon.Enabled = true;
+            //}
+            //LoadDataGridView();
         }
         private void LoadDataGridView()
         {
