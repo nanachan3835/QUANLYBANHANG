@@ -62,6 +62,12 @@ namespace QLBanHang
             Function.Disconnect();  
             Application.Exit(); 
         }
+
+        private void mnuHoaDonBan_Click(object sender, EventArgs e)
+        {
+            frmHoaDonBan frm = new frmHoaDonBan();
+            frm.ShowDialog();
+        }
     }
 }
        
