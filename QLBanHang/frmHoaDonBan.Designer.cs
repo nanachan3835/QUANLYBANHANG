@@ -34,6 +34,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cboMaKhach = new System.Windows.Forms.ComboBox();
             this.txtDienThoai = new System.Windows.Forms.MaskedTextBox();
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.txtTenKhach = new System.Windows.Forms.TextBox();
@@ -77,7 +78,6 @@
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
-            this.cboMaKhach = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -176,6 +176,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin chung";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            // 
+            // cboMaKhach
+            // 
+            this.cboMaKhach.FormattingEnabled = true;
+            this.cboMaKhach.Location = new System.Drawing.Point(743, 32);
+            this.cboMaKhach.Name = "cboMaKhach";
+            this.cboMaKhach.Size = new System.Drawing.Size(256, 24);
+            this.cboMaKhach.TabIndex = 16;
+            this.cboMaKhach.TextChanged += new System.EventHandler(this.cboMaKhach_TextChanged);
             // 
             // txtDienThoai
             // 
@@ -590,15 +599,6 @@
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
-            // cboMaKhach
-            // 
-            this.cboMaKhach.FormattingEnabled = true;
-            this.cboMaKhach.Location = new System.Drawing.Point(743, 32);
-            this.cboMaKhach.Name = "cboMaKhach";
-            this.cboMaKhach.Size = new System.Drawing.Size(256, 24);
-            this.cboMaKhach.TabIndex = 16;
-            this.cboMaKhach.TextChanged += new System.EventHandler(this.cboMaKhach_TextChanged);
-            // 
             // frmHoaDonBan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -651,7 +651,6 @@
         private System.Windows.Forms.TextBox txtTenNhanVien;
         private System.Windows.Forms.ComboBox cboMaNhanVien;
         private System.Windows.Forms.DateTimePicker txtNgayBan;
-        private System.Windows.Forms.TextBox txtMaHDBan;
         private System.Windows.Forms.MaskedTextBox txtDienThoai;
         private System.Windows.Forms.TextBox txtDiaChi;
         private System.Windows.Forms.TextBox txtTenKhach;
@@ -683,5 +682,6 @@
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnThem;
         private System.Windows.Forms.ComboBox cboMaKhach;
+        public System.Windows.Forms.TextBox txtMaHDBan;
     }
 }

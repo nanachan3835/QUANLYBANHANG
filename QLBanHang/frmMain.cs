@@ -68,6 +68,12 @@ namespace QLBanHang
             frmHoaDonBan frm = new frmHoaDonBan();
             frm.ShowDialog();
         }
+
+        private void mnuFindHoaDon_Click(object sender, EventArgs e)
+        {
+            frmTimKiemHD frm = new frmTimKiemHD();  
+            frm.ShowDialog();
+        }
     }
 }
        

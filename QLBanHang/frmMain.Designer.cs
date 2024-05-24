@@ -40,13 +40,13 @@
             this.mnuHoaDonBan = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuTimKiem = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuFindHoaDon = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnuFindHang = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuFindKhachHang = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuBaoCao = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuBCHangTon = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuBCDoanhThu = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuTroGiup = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuHienTroGiup = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuFindHang = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -132,7 +132,7 @@
             // mnuHoaDonBan
             // 
             this.mnuHoaDonBan.Name = "mnuHoaDonBan";
-            this.mnuHoaDonBan.Size = new System.Drawing.Size(224, 26);
+            this.mnuHoaDonBan.Size = new System.Drawing.Size(179, 26);
             this.mnuHoaDonBan.Text = "Hóa đơn bán";
             this.mnuHoaDonBan.Click += new System.EventHandler(this.mnuHoaDonBan_Click);
             // 
@@ -149,19 +149,14 @@
             // mnuFindHoaDon
             // 
             this.mnuFindHoaDon.Name = "mnuFindHoaDon";
-            this.mnuFindHoaDon.Size = new System.Drawing.Size(169, 26);
+            this.mnuFindHoaDon.Size = new System.Drawing.Size(224, 26);
             this.mnuFindHoaDon.Text = "Hóa đơn";
-            // 
-            // mnuFindHang
-            // 
-            this.mnuFindHang.Name = "mnuFindHang";
-            this.mnuFindHang.Size = new System.Drawing.Size(169, 26);
-            this.mnuFindHang.Text = "Hàng";
+            this.mnuFindHoaDon.Click += new System.EventHandler(this.mnuFindHoaDon_Click);
             // 
             // mnuFindKhachHang
             // 
             this.mnuFindKhachHang.Name = "mnuFindKhachHang";
-            this.mnuFindKhachHang.Size = new System.Drawing.Size(169, 26);
+            this.mnuFindKhachHang.Size = new System.Drawing.Size(224, 26);
             this.mnuFindKhachHang.Text = "Khách hàng";
             // 
             // mnuBaoCao
@@ -199,6 +194,12 @@
             this.mnuHienTroGiup.Size = new System.Drawing.Size(177, 26);
             this.mnuHienTroGiup.Text = "hiện trợ giúp";
             // 
+            // mnuFindHang
+            // 
+            this.mnuFindHang.Name = "mnuFindHang";
+            this.mnuFindHang.Size = new System.Drawing.Size(224, 26);
+            this.mnuFindHang.Text = "Hàng";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -233,10 +234,10 @@
         private System.Windows.Forms.ToolStripMenuItem mnuTroGiup;
         private System.Windows.Forms.ToolStripMenuItem mnuHoaDonBan;
         private System.Windows.Forms.ToolStripMenuItem mnuFindHoaDon;
-        private System.Windows.Forms.ToolStripMenuItem mnuFindHang;
         private System.Windows.Forms.ToolStripMenuItem mnuFindKhachHang;
         private System.Windows.Forms.ToolStripMenuItem mnuBCHangTon;
         private System.Windows.Forms.ToolStripMenuItem mnuBCDoanhThu;
         private System.Windows.Forms.ToolStripMenuItem mnuHienTroGiup;
+        private System.Windows.Forms.ToolStripMenuItem mnuFindHang;
     }
 }
